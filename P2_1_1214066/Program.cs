@@ -45,6 +45,7 @@ namespace P2_1_1214066
             Console.Write(angka2);
             Console.Write(" = ");
             Console.WriteLine(pembagian);
+
         }
     }
 }
